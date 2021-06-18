@@ -1,6 +1,5 @@
-# Obfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayat
+#!/bin/python
+#CODED BY ISURUWA
 
 import zlib,base64
 exec(zlib.decompress(base64.b64decode("eJyVVFFP2zAQfuZ+xS15aDrRiDaMSZ32MNoOIY1RFRBCbA9pcrTWHDuzHUGl/fg5TkJN0TTqlyT32fd999054WAwwInkUiHa1xBuET9j78dRktwfFT3EEB/XzBBGOT2kFTd9WGx3JEO7JURFOZxto8NPycjFV4pI4FLyHC69Q4kDpUrFiuDUA44dsOQVwdwLf3DhslIlJ5h4wIkDsk0q4GyxDX9sydMNALCilMqgYQUdSn2oNxqM2owB7WqxjRkVZZLLRwH0lFFp8ELmFafv0nyVlchnSkk1hoNSMWGioBOFeN/V876L/exswQX9rpg1ps2FNhm6bPgu6MNBrSfWnKiMhv09Ujtv8Vxok3LOxKrJJnVsCzNURL2Slcga2CsMe/uQ1GAru2Wi3PG8NgzAzgUWJKqo35iKnpiMU6os9W78ga04GQzurkcX8wQD/INc8iw12G1utQYvPzt3w8nldDbF0zs8v7pZ3Nx+CV4dgybw3Gu3rGO/7JwwUVZvM+KkwJkwpPB6TfitPj3GjmtXl2uND25tiu0zqsn/cfS/3ZjaJFymue14HMd4VWUZaU15/ELN2+tKCpwrm6GrTtp/gDBMVLRToNe0ZarXqK2CenLXXaOaG+N5vEdhw3qSLb9IObpL5jP71PTEjCWEZs7gL+63S10=")))

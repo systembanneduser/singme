@@ -47,10 +47,12 @@ SINGME is a bash , python based script which is made for downloading songs from 
 * `apt install toilet`
 * `apt install fortune`
 * `apt install cowsay`
-* `git clone https://github.com/isuruwa/TST`
-* `cd TST`
-* `pip install -r requirements.txt`
-* `python tst.py`
+* `apt install figlet`
+* `apt install ffmpeg`
+* `git clone https://github.com/isuruwa/singme`
+* `cd singme`
+* `bash install.sh`
+* `bash singme.sh`
 
   
 <p align="center">

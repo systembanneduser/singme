@@ -64,6 +64,7 @@ SINGME is a bash , python based script which is made for downloading songs from 
 ```
 [+]-- Need internet connection to process
 [+]-- Only For Educational Purposes
+[*]-- I a directory error GO to internal storage & create a folder named singme and store spotify , soundcloud folders in it .
   
 ```
   

@@ -99,3 +99,7 @@ SINGME is a bash , python based script which is made for downloading songs from 
 <img src="https://img.shields.io/badge/isuruwa-STAY%20SAFE-brightgreen?style=flat-square&logo=appveyor"/>
 
 <img src="https://img.shields.io/badge/isuruwa-EXPECT%20US-red?style=for-the-badge&logo=appveyor"/>
+
+# SCREENSHOTS :
+
+![Screenshot_20210621-231350_Termux](https://user-images.githubusercontent.com/72663288/122806808-6b565e00-d2e8-11eb-8dc2-863ff8b2dcc6.jpg)

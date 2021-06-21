@@ -11,14 +11,23 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisuruwa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <br>
+
+<p>
+  
+<img src="https://img.shields.io/badge/isuruwa-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor">
   
  ## ABOUT TOOL : <img src="https://img.icons8.com/nolan/64/musical.png"/>
   
 SINGME is a bash , python based script which is made for downloading songs from various platforms .
 
-<br> 
-  
+
+</p>
+
+<br>
+
+
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
+  
   
 ## FEATURES : <img src="https://img.icons8.com/nolan/64/musical.png"/>
   
@@ -31,6 +40,15 @@ SINGME is a bash , python based script which is made for downloading songs from 
 4.Background Music Play For Fun
   
 5.And With More Features , try it . 
+
+
+</p>
+
+<br>
+
+<p>
+  
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
 
   
 ## AVAILABLE ON : <img src="https://img.icons8.com/nolan/64/musical.png"/>

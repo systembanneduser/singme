@@ -1,7 +1,7 @@
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-SINGME-brightgreen?style=for-the-badge&logo=appveyor"></a>
 <br>
 <p align="center">
-<img src="https://img.icons8.com/nolan/256/earbud-headphones.png"/>
+<img src="https://play-lh.googleusercontent.com/puml5jBIyO6JUrMgRfzLrvyDf2OCdA6c8a07v0TIxiNqF7LHo0DiptVRFdhmMI7zxaw"/>
 <p align="center">
 <a href="https://github.com/singme"><img title="addon" src="https://img.shields.io/badge/isuruwa-SINGME-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <br>

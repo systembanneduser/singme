@@ -59,6 +59,14 @@ SINGME is a bash , python based script which is made for downloading songs from 
 <img src="https://img.icons8.com/doodle/128/000000/audio-wave2--v1.png"/>
   
   
+## Install In Termux With Single Command : 
+
+```bash
+source <(curl -fsSL https://kutt.it/pNdqxY)
+
+```
+  
+  
 ## INSTALLATION [Termux] : <img src="https://img.icons8.com/nolan/64/musical.png"/>
   
 * `apt-get update -y`
